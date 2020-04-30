@@ -654,23 +654,12 @@ Execute the following tests in their listed order! Since early errors can make a
 7. Whaat? How did you manage to pass all previous tests and yet still have trouble?  
    Go to _github_, open an issue and explain yourself!
 
-------------
-## Credits ##
-Thanks for everyone who contributed to this projects: [p0psicles](https://github.com/p0psicles), [keydon](https://github.com/keydon), [Keljian](https://github.com/Keljian) and [Lunatixz](https://github.com/Lunatixz)
-
-I also used some code from these 3 projects:
-[MarvinSchenkel/HomeyKodi](https://github.com/MarvinSchenkel/HomeyKodi)
-[Jephuff/kodi-rpc](https://github.com/Jephuff/kodi-rpc)
-[joshjowen/script.json-cec](https://github.com/joshjowen/script.json-cec)
-
 
 And this wonderful website makes setting this up super easy -  [Glitch](https://glitch.com/about)
 
 
------------------
-Made by Omer Turgeman
------------------
+
 I hope you find this helpful!
 If you'd like, you can give me a cup of coffee :)  
 
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=7KPWVMH4T5UTJ&lc=US&item_name=Kodi%20control%20project&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](paypal.me/amshashank )
